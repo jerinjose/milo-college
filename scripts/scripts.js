@@ -57,8 +57,8 @@ const LIBS = '/libs';
 const CONFIG = {
   // codeRoot: '',
   // contentRoot: '',
-  // imsClientId: 'college',
-  // imsScope: 'AdobeID,openid,gnav',
+  imsClientId: 'hendrix_commerce_ui_client',
+  imsScope: 'AdobeID,openid,gnav',
   // geoRouting: 'off',
   // fallbackRouting: 'off',
   decorateArea,
