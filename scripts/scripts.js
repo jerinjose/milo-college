@@ -57,7 +57,7 @@ const LIBS = '/libs';
 const CONFIG = {
   codeRoot: '',
   contentRoot: '',
-  imsClientId: 'hendrix_commerce_ui_client',
+  imsClientId: 'ATSClient',
   imsScope: 'AdobeID,openid,gnav',
   geoRouting: 'off',
   fallbackRouting: 'off',
