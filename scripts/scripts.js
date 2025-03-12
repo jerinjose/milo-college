@@ -55,12 +55,12 @@ const LIBS = '/libs';
 
 // Add any config options.
 const CONFIG = {
-  // codeRoot: '',
-  // contentRoot: '',
+  codeRoot: '',
+  contentRoot: '',
   imsClientId: 'hendrix_commerce_ui_client',
   imsScope: 'AdobeID,openid,gnav',
-  // geoRouting: 'off',
-  // fallbackRouting: 'off',
+  geoRouting: 'off',
+  fallbackRouting: 'off',
   decorateArea,
   locales: {
     '': { ietf: 'en-US', tk: 'hah7vzn.css' },
